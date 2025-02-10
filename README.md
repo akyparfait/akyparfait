@@ -1,6 +1,6 @@
 ### Hello! I'm aky™ 🍓 Full-Stack Developer & Designer  
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  📧 [Email me](mailto:akyagathadev@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/akpa)  
 
 🌱 I can speak English and read too.
