@@ -1,7 +1,12 @@
-### Olá eu sou aky™ 🍓 ᵈᵉᵛ ᶠᵘˡˡ ᵉ ᵈᵉˢⁱᵍⁿᵉʳ
-### ᵃᵏʸᵖᵃʳᶠᵃⁱᵗ
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 
-[![Blog](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/akpa)
+### Hello! I'm aky™ 🍓 Full-Stack Developer & Designer  
 
-![Ágatha GitHub stats](https://github-readme-stats.vercel.app/api?username=akyparfait&show_icons=true&theme=synthwave)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/akpa)  
+
+🌱 I can speak English and read too.
+💻 My main focus is **Frontend Development**, but I aim to become **Full-Stack**.  
+🔥 One of my favorite languages is **Java**.  
+🚀 I'm learning **C++** and almost mastering **JavaScript**.  
+🎨 I'm skilled in **HTML, CSS, and JavaScript**, and I plan to learn **C#**.  
+
 
