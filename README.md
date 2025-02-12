@@ -17,7 +17,7 @@
 - 💻 My main focus is to become a **Full-Stack Developer**.
 - 🔥 I love coding in **Java**!  
 - 🛠️ Currently learning **C++ | Typescript** and almost mastering **JavaScript**.  
-- 🎨 Skilled in **HTML, CSS, and JavaScript**. Next stop: **C#**!  
+- 🎨 Skilled in **Python | HTML, CSS, and JavaScript**. Next stop: **C#**!  
 - 🎓 Currently studying **Systems Analysis and Development** in college.  
 
 ---
