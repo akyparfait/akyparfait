@@ -19,7 +19,7 @@
 - 🛠️ Currently learning **C++ | Typescript** and almost mastering **JavaScript**.  
 - 🎨 Skilled in **Python | HTML, CSS, and JavaScript**. Next stop: **C#**!  
 - 🎓 Currently studying **Systems Analysis and Development** in college.
-- 🔰 I am studying **BlockChain** and its branches
+- 🔰 I am studying **BlockChain** and its branches.
 
 ---
 
