@@ -27,4 +27,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,ts,python,c" alt="Tech Stack" />
 </div>
 
+---
 
+- I am constantly learning and developing, seeking to improve my *teamskills* to collaborate more efficiently and productively as a team.
